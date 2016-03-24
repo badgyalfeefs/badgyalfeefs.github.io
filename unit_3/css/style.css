@@ -1,29 +1,6 @@
-body{
-	text-align: center;
-	background-image: <img src="images/tacos.jpg">;
-	color: #24750D;
-	font-family: Raleway;
-}
-
 h1{
-	font-weight: bold;
+	font-family: h1{
+	font-family: @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
 	font-size: 60px
 	color:#D67307;
-}
-
-h2{
-	font-weight: normal;
-	font-size:30px
-}
-
-p{
-	
-	font-weight: normal;
-	font-size: 18px;
-}
-
-hr{
-	width: 600px;
-	color: #919090;
-
 }

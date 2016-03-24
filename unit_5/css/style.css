@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+ 
+
+
+body{
+ 	font-family: 'Open Sans', sans-serif;
+ 	font-size: 1em;
+ 	color: #333333;
+ 	line-height: 1.3em;
+ }
+
+header{
+	background-color:#FFED74;
+	padding-bottom: 40px;
+	text-align: center;
+	border: 2px solid black;
+}
+
+
+a {
+	color:#000000;
+	text-decoration: none;
+
+}
+
+nav a{
+	color: #000000;
+	margin: 0 auto;
+	font-family: Arial;
+	font-size: 1.875em;
+	padding: 10px;
+	text-align: center;
+	background-color: #E8C66A;
+
+}
+
+ h1{
+ 	text-align: center;
+	font-size: 4.375em;
+	color:#187E0B;
+	font-family: 'Amatic SC', cursive;
+	padding-top: 20px;
+ }
+ 
+ h2{
+	text-align: center;
+	font-weight: normal;
+ 	font-size: 3em;
+	color: #000000;
+	font-family:'Amatic SC', cursive;
+ }
+
+article{
+	background-color: #E89C6C;
+	margin:20px
+	border: 2px solid black;
+}
+
+ 
+img{
+	width: 1500px;
+	margin: 0 auto;
+	padding: 20px;
+	display: block;
+}
+
+
+
+p{
+ 	
+ 	font-weight: normal;
+ 	font-size: 1.56em;
+ 	font-family: Helvetica; 
+ 	text-align: center;
+ 	line-height: 2em;
+ 	color: #000000;
+ }
+
+ ul{
+ 	list-style: none;
+ 	font-size: 1.56em;
+ 	line-height: 1.5em;
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	padding: 5px;
+ 	color: #fff;
+ }
+
+footer{
+	background-color: #FF957E;
+	border: 2px solid black;
+}
+
+div{
+	background-color: #FFE2B8;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+
+#one{
+	background-color: #FFE2B8;
+	border: 2px solid black;
+}
+
+#two{
+	background-color: #E89C6C;
+	border: 2px solid black;
+	margin: 10px;
+}
