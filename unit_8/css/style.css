@@ -139,28 +139,40 @@ div{
 
 @media only screen and (max-width: 997px) {
 
-nav a { 
-	display: block;
-}
+	nav a { 
+		display: block;
+	}
 
-h1 {
+	h1 {
 	font-size: 3em;
-}
+    padding: 10;
+    line-height: 1em;
+	}
 
-h2 {
-	font-size: 1.9em;
-	line-height: 1em;
-}
+	h2 {
+		font-size: 1.9em;
+		
+	}
 
 
-p{
-	line-height: 1.2em;
-	font-size: 1em;
-	padding: 10px;
-	margin: 5px;
-}
+	p {
+		line-height: 1.2em;
+		font-size: 1em;
+		padding: 10px;
+		margin: 5px;
+	}
 
 ul {
 	font-size: 1em;
+	}
 }
+
+@media only screen and (max-width: 405px) {
+	h1 {
+	display: block;
+	font-size: 2.5em;
+    padding: 10;
+    line-height: 1em;
+	}
+		}
 }
